@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //inclui a biblioteca stdio.h, que permite usar as funcoes de erada e saida, como printf e scanfnt
 
 int main() {
    int idade = 0; //variavel do tipo inteiro, com o nome idade, e valor inicial 0
